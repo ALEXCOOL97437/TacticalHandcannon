@@ -1,0 +1,117 @@
+[+] Containers:
+ |- [+] Container: /Game/TacticalHandcannon/Maps/ThirdPersonMap
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:0944B06049C6BF6CAF44628249E88936 BaseClass: NativeClass:/Script/Engine.SkeletalMeshActor Name:SkeletalMeshActor_UAID_B00CD162E1E7AA7702_1251409090 Label:Anim_HandcannonAim11 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1329.894 Y=1574.636 Z=98.227), Max=(X=1499.043 Y=1654.338 Z=148.039) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:238F3BEB4B985C0732CE9CB25CA38DCC BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_UAID_B00CD162E1E7606102_2079774825 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:264061B046FE7E1D5EB9A29A5CEDAB22 BaseClass: NativeClass:/Script/Engine.SkeletalMeshActor Name:SkeletalMeshActor_UAID_B00CD162E1E7AA7702_1292706098 Label:Anim_HandcannonDiveRight01 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=957.457 Y=3373.677 Z=100.137), Max=(X=1040.879 Y=3447.968 Z=252.160) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:2D5790E74CF369AEB76C3CAE1E5CC461 BaseClass: NativeClass:/Script/Engine.SkeletalMeshActor Name:SkeletalMeshActor_UAID_B00CD162E1E7AA7702_1253241091 Label:Anim_HandcannonAim12 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1710.953 Y=1568.650 Z=98.237), Max=(X=1880.106 Y=1648.368 Z=148.031) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:2DB869364111769647CEB7949F2BD1C8 BaseClass: NativeClass:/Script/Engine.SkeletalMeshActor Name:SkeletalMeshActor_UAID_B00CD162E1E7AA7702_1294523099 Label:Anim_HandcannonDiveRight02 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=551.456 Y=3373.677 Z=100.137), Max=(X=634.881 Y=3447.966 Z=252.158) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:3A00AA1C422CE54C0BDB60BAF471BFBB BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_0 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=4412.000 Y=1070.000 Z=0.013), Max=(X=4492.000 Y=1150.000 Z=184.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:49856FF745B848048E7C2CB606434DCC BaseClass: NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_UAID_B00CD162E1E7606102_2080454827 Label:VolumetricCloud SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:4C6F3C70415E5E281C81E089E995E720 BaseClass: NativeClass:/Script/Engine.SkeletalMeshActor Name:SkeletalMeshActor_UAID_B00CD162E1E7AA7702_1290249097 Label:Anim_HandcannonDiveLeft02 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1360.084 Y=3376.687 Z=100.144), Max=(X=1443.568 Y=3450.961 Z=252.157) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:52AB8B20454C11AF9227DD9AAC4A0A4C BaseClass: NativeClass:/Script/Engine.SkeletalMeshActor Name:SkeletalMeshActor_UAID_B00CD162E1E7A97702_2140663906 Label:Anim_HandcannonAim03 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1362.483 Y=537.071 Z=94.704), Max=(X=1423.719 Y=669.000 Z=222.514) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:5FCFC2324AC35F0AD33CB9B8CC485A6F BaseClass: NativeClass:/Script/Engine.SkeletalMeshActor Name:SkeletalMeshActor_UAID_B00CD162E1E7A97702_2136760905 Label:Anim_HandcannonAim02 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=973.156 Y=548.559 Z=100.110), Max=(X=1026.357 Y=666.682 Z=267.018) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:611F48A54BC03CF3502133BE75EE80A5 BaseClass: NativeClass:/Script/Engine.SkeletalMeshActor Name:SkeletalMeshActor_UAID_B00CD162E1E7AA7702_1249024089 Label:Anim_HandcannonAim10 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=929.955 Y=1577.179 Z=97.811), Max=(X=1105.806 Y=1661.664 Z=148.767) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:6BAF4DDD444C60371492D3919DB42C97 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:6E965A9D40B55CB7E6E214A93509FB3B BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_UAID_B00CD162E1E7606102_2080833828 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:87B0C6384DACCEB2B4BF918CF23CEF73 BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_UAID_B00CD162E1E7606102_2079436824 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:8C5B4E434A19CDEC6FE709A2D1D3811A BaseClass: NativeClass:/Script/Engine.SkeletalMeshActor Name:SkeletalMeshActor_UAID_B00CD162E1E7AA7702_1239189086 Label:Anim_HandcannonAim07 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1378.305 Y=1057.786 Z=97.848), Max=(X=1428.340 Y=1184.127 Z=191.195) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:A6B0905E424F3722FD46CDBF147A0174 BaseClass: NativeClass:/Script/Engine.SkeletalMeshActor Name:SkeletalMeshActor_UAID_B00CD162E1E7AA7702_1242022087 Label:Anim_HandcannonAim08 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1773.658 Y=1058.785 Z=97.799), Max=(X=1823.693 Y=1185.131 Z=191.195) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:AD8453004E84EFCBDF86318CA36ABA63 BaseClass: NativeClass:/Script/Engine.TextRenderActor Name:TextRenderActor_UAID_B00CD162E1E7806F02_2079325361 Label:TextRenderActor14 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=822.900 Y=-52.000 Z=625.013), Max=(X=2299.823 Y=-52.000 Z=775.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:B30334D0461303EC7C3F348CC8784C30 BaseClass: NativeClass:/Script/Engine.SkeletalMeshActor Name:SkeletalMeshActor_UAID_B00CD162E1E7A97702_2143011907 Label:Anim_HandcannonAim04 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1777.288 Y=529.057 Z=94.716), Max=(X=1838.512 Y=661.027 Z=222.513) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:B6C2636840139D2E5EB6BE969377B503 BaseClass: NativeClass:/Script/Engine.SkeletalMeshActor Name:SkeletalMeshActor_UAID_B00CD162E1E7AA7702_1246935088 Label:Anim_HandcannonAim09 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=491.187 Y=1574.207 Z=97.870), Max=(X=667.055 Y=1658.635 Z=148.735) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:B7D45B4C4AC4848A4697CD83115DE835 BaseClass: NativeClass:/Script/Engine.SkeletalMeshActor Name:SkeletalMeshActor_UAID_B00CD162E1E7AA7702_1271396094 Label:Anim_HandcannonDiveForward01 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1366.774 Y=2854.635 Z=100.025), Max=(X=1447.539 Y=2929.404 Z=254.032) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:B92B825D4FCA3C214F7E3D89D4E375EF BaseClass: NativeClass:/Script/Engine.SkeletalMeshActor Name:SkeletalMeshActor_UAID_B00CD162E1E7AA7702_1234836084 Label:Anim_HandcannonAim05 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=584.623 Y=990.370 Z=96.256), Max=(X=633.171 Y=1205.746 Z=150.136) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:CCA6F52D4F6C1B24FA00F59444716FA9 BaseClass: NativeClass:/Script/Engine.SkeletalMeshActor Name:SkeletalMeshActor_UAID_B00CD162E1E7A97702_2133726904 Label:Anim_HandcannonAim01 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=569.636 Y=547.558 Z=100.113), Max=(X=622.840 Y=665.656 Z=267.018) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:D6700BAC4C9E2E2E7CFB8DAE4DBBDE02 BaseClass: NativeClass:/Script/Engine.SkeletalMeshActor Name:SkeletalMeshActor_UAID_B00CD162E1E7AA7702_1268907093 Label:Anim_HandcannonDiveBackward02 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=968.652 Y=2871.462 Z=99.922), Max=(X=1041.310 Y=2950.363 Z=260.733) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:DC97DA7243A4CDF7F5460294A8092DF4 BaseClass: NativeClass:/Script/Engine.SkeletalMeshActor Name:SkeletalMeshActor_UAID_B00CD162E1E7AA7702_1266679092 Label:Anim_HandcannonDiveBackward01 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=565.693 Y=2866.459 Z=99.926), Max=(X=638.346 Y=2945.356 Z=260.732) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:E18CE53E46C0CCD6B07A5481614646FE BaseClass: NativeClass:/Script/Engine.SkeletalMeshActor Name:SkeletalMeshActor_UAID_B00CD162E1E7AA7702_1236788085 Label:Anim_HandcannonAim06 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=975.808 Y=988.367 Z=96.261), Max=(X=1024.353 Y=1203.769 Z=150.141) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:E2D85E01441BDAA3D60C57AEC3D324BB BaseClass: NativeClass:/Script/Engine.SkeletalMeshActor Name:SkeletalMeshActor_UAID_B00CD162E1E7AA7702_1273626095 Label:Anim_HandcannonDiveForward02 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1765.461 Y=2851.632 Z=100.020), Max=(X=1846.227 Y=2926.410 Z=254.030) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:F1924B8D48954B30891B2DB6A694F9CC BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_1 Label:SM_Cube SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=-50.000), Max=(X=7000.000 Y=7000.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 FolderPath:Playground FolderGuid:C73F09FC4215536B1DCE2A9E0A830C70
+ |   |   |- Guid:FB9E1FEE41AC91D98374968EE365E229 BaseClass: NativeClass:/Script/Engine.SkeletalMeshActor Name:SkeletalMeshActor_UAID_B00CD162E1E7AA7702_1287340096 Label:Anim_HandcannonDiveLeft01 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1765.166 Y=3368.693 Z=100.142), Max=(X=1848.529 Y=3442.964 Z=252.156) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:FDB274D8407BABB00CFC7090415FE3EC BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_UAID_B00CD162E1E7606102_2080104826 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:FDB274D8407BABB00CFC7090415FE3EC BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_UAID_B00CD162E1E7606102_2080104826 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:6E965A9D40B55CB7E6E214A93509FB3B BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_UAID_B00CD162E1E7606102_2080833828 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:49856FF745B848048E7C2CB606434DCC BaseClass: NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_UAID_B00CD162E1E7606102_2080454827 Label:VolumetricCloud SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  3]
+ |   |   |   |- Guid:87B0C6384DACCEB2B4BF918CF23CEF73 BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_UAID_B00CD162E1E7606102_2079436824 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  4]
+ |   |   |   |- Guid:6BAF4DDD444C60371492D3919DB42C97 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  5]
+ |   |   |   |- Guid:F1924B8D48954B30891B2DB6A694F9CC BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_1 Label:SM_Cube SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=-50.000), Max=(X=7000.000 Y=7000.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 FolderPath:Playground FolderGuid:C73F09FC4215536B1DCE2A9E0A830C70
+ |   |   |- [+] [  6]
+ |   |   |   |- Guid:AD8453004E84EFCBDF86318CA36ABA63 BaseClass: NativeClass:/Script/Engine.TextRenderActor Name:TextRenderActor_UAID_B00CD162E1E7806F02_2079325361 Label:TextRenderActor14 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=822.900 Y=-52.000 Z=625.013), Max=(X=2299.823 Y=-52.000 Z=775.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  7]
+ |   |   |   |- Guid:238F3BEB4B985C0732CE9CB25CA38DCC BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_UAID_B00CD162E1E7606102_2079774825 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  8]
+ |   |   |   |- Guid:3A00AA1C422CE54C0BDB60BAF471BFBB BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_0 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=4412.000 Y=1070.000 Z=0.013), Max=(X=4492.000 Y=1150.000 Z=184.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  9]
+ |   |   |   |- Guid:CCA6F52D4F6C1B24FA00F59444716FA9 BaseClass: NativeClass:/Script/Engine.SkeletalMeshActor Name:SkeletalMeshActor_UAID_B00CD162E1E7A97702_2133726904 Label:Anim_HandcannonAim01 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=569.636 Y=547.558 Z=100.113), Max=(X=622.840 Y=665.656 Z=267.018) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 10]
+ |   |   |   |- Guid:5FCFC2324AC35F0AD33CB9B8CC485A6F BaseClass: NativeClass:/Script/Engine.SkeletalMeshActor Name:SkeletalMeshActor_UAID_B00CD162E1E7A97702_2136760905 Label:Anim_HandcannonAim02 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=973.156 Y=548.559 Z=100.110), Max=(X=1026.357 Y=666.682 Z=267.018) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 11]
+ |   |   |   |- Guid:52AB8B20454C11AF9227DD9AAC4A0A4C BaseClass: NativeClass:/Script/Engine.SkeletalMeshActor Name:SkeletalMeshActor_UAID_B00CD162E1E7A97702_2140663906 Label:Anim_HandcannonAim03 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1362.483 Y=537.071 Z=94.704), Max=(X=1423.719 Y=669.000 Z=222.514) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 12]
+ |   |   |   |- Guid:B30334D0461303EC7C3F348CC8784C30 BaseClass: NativeClass:/Script/Engine.SkeletalMeshActor Name:SkeletalMeshActor_UAID_B00CD162E1E7A97702_2143011907 Label:Anim_HandcannonAim04 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1777.288 Y=529.057 Z=94.716), Max=(X=1838.512 Y=661.027 Z=222.513) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 13]
+ |   |   |   |- Guid:B92B825D4FCA3C214F7E3D89D4E375EF BaseClass: NativeClass:/Script/Engine.SkeletalMeshActor Name:SkeletalMeshActor_UAID_B00CD162E1E7AA7702_1234836084 Label:Anim_HandcannonAim05 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=584.623 Y=990.370 Z=96.256), Max=(X=633.171 Y=1205.746 Z=150.136) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 14]
+ |   |   |   |- Guid:E18CE53E46C0CCD6B07A5481614646FE BaseClass: NativeClass:/Script/Engine.SkeletalMeshActor Name:SkeletalMeshActor_UAID_B00CD162E1E7AA7702_1236788085 Label:Anim_HandcannonAim06 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=975.808 Y=988.367 Z=96.261), Max=(X=1024.353 Y=1203.769 Z=150.141) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 15]
+ |   |   |   |- Guid:8C5B4E434A19CDEC6FE709A2D1D3811A BaseClass: NativeClass:/Script/Engine.SkeletalMeshActor Name:SkeletalMeshActor_UAID_B00CD162E1E7AA7702_1239189086 Label:Anim_HandcannonAim07 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1378.305 Y=1057.786 Z=97.848), Max=(X=1428.340 Y=1184.127 Z=191.195) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 16]
+ |   |   |   |- Guid:A6B0905E424F3722FD46CDBF147A0174 BaseClass: NativeClass:/Script/Engine.SkeletalMeshActor Name:SkeletalMeshActor_UAID_B00CD162E1E7AA7702_1242022087 Label:Anim_HandcannonAim08 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1773.658 Y=1058.785 Z=97.799), Max=(X=1823.693 Y=1185.131 Z=191.195) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 17]
+ |   |   |   |- Guid:B6C2636840139D2E5EB6BE969377B503 BaseClass: NativeClass:/Script/Engine.SkeletalMeshActor Name:SkeletalMeshActor_UAID_B00CD162E1E7AA7702_1246935088 Label:Anim_HandcannonAim09 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=491.187 Y=1574.207 Z=97.870), Max=(X=667.055 Y=1658.635 Z=148.735) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 18]
+ |   |   |   |- Guid:611F48A54BC03CF3502133BE75EE80A5 BaseClass: NativeClass:/Script/Engine.SkeletalMeshActor Name:SkeletalMeshActor_UAID_B00CD162E1E7AA7702_1249024089 Label:Anim_HandcannonAim10 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=929.955 Y=1577.179 Z=97.811), Max=(X=1105.806 Y=1661.664 Z=148.767) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 19]
+ |   |   |   |- Guid:0944B06049C6BF6CAF44628249E88936 BaseClass: NativeClass:/Script/Engine.SkeletalMeshActor Name:SkeletalMeshActor_UAID_B00CD162E1E7AA7702_1251409090 Label:Anim_HandcannonAim11 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1329.894 Y=1574.636 Z=98.227), Max=(X=1499.043 Y=1654.338 Z=148.039) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 20]
+ |   |   |   |- Guid:2D5790E74CF369AEB76C3CAE1E5CC461 BaseClass: NativeClass:/Script/Engine.SkeletalMeshActor Name:SkeletalMeshActor_UAID_B00CD162E1E7AA7702_1253241091 Label:Anim_HandcannonAim12 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1710.953 Y=1568.650 Z=98.237), Max=(X=1880.106 Y=1648.368 Z=148.031) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 21]
+ |   |   |   |- Guid:DC97DA7243A4CDF7F5460294A8092DF4 BaseClass: NativeClass:/Script/Engine.SkeletalMeshActor Name:SkeletalMeshActor_UAID_B00CD162E1E7AA7702_1266679092 Label:Anim_HandcannonDiveBackward01 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=565.693 Y=2866.459 Z=99.926), Max=(X=638.346 Y=2945.356 Z=260.732) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 22]
+ |   |   |   |- Guid:D6700BAC4C9E2E2E7CFB8DAE4DBBDE02 BaseClass: NativeClass:/Script/Engine.SkeletalMeshActor Name:SkeletalMeshActor_UAID_B00CD162E1E7AA7702_1268907093 Label:Anim_HandcannonDiveBackward02 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=968.652 Y=2871.462 Z=99.922), Max=(X=1041.310 Y=2950.363 Z=260.733) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 23]
+ |   |   |   |- Guid:B7D45B4C4AC4848A4697CD83115DE835 BaseClass: NativeClass:/Script/Engine.SkeletalMeshActor Name:SkeletalMeshActor_UAID_B00CD162E1E7AA7702_1271396094 Label:Anim_HandcannonDiveForward01 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1366.774 Y=2854.635 Z=100.025), Max=(X=1447.539 Y=2929.404 Z=254.032) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 24]
+ |   |   |   |- Guid:E2D85E01441BDAA3D60C57AEC3D324BB BaseClass: NativeClass:/Script/Engine.SkeletalMeshActor Name:SkeletalMeshActor_UAID_B00CD162E1E7AA7702_1273626095 Label:Anim_HandcannonDiveForward02 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1765.461 Y=2851.632 Z=100.020), Max=(X=1846.227 Y=2926.410 Z=254.030) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 25]
+ |   |   |   |- Guid:FB9E1FEE41AC91D98374968EE365E229 BaseClass: NativeClass:/Script/Engine.SkeletalMeshActor Name:SkeletalMeshActor_UAID_B00CD162E1E7AA7702_1287340096 Label:Anim_HandcannonDiveLeft01 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1765.166 Y=3368.693 Z=100.142), Max=(X=1848.529 Y=3442.964 Z=252.156) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 26]
+ |   |   |   |- Guid:4C6F3C70415E5E281C81E089E995E720 BaseClass: NativeClass:/Script/Engine.SkeletalMeshActor Name:SkeletalMeshActor_UAID_B00CD162E1E7AA7702_1290249097 Label:Anim_HandcannonDiveLeft02 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1360.084 Y=3376.687 Z=100.144), Max=(X=1443.568 Y=3450.961 Z=252.157) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 27]
+ |   |   |   |- Guid:264061B046FE7E1D5EB9A29A5CEDAB22 BaseClass: NativeClass:/Script/Engine.SkeletalMeshActor Name:SkeletalMeshActor_UAID_B00CD162E1E7AA7702_1292706098 Label:Anim_HandcannonDiveRight01 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=957.457 Y=3373.677 Z=100.137), Max=(X=1040.879 Y=3447.968 Z=252.160) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 28]
+ |   |   |   |- Guid:2DB869364111769647CEB7949F2BD1C8 BaseClass: NativeClass:/Script/Engine.SkeletalMeshActor Name:SkeletalMeshActor_UAID_B00CD162E1E7AA7702_1294523099 Label:Anim_HandcannonDiveRight02 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=551.456 Y=3373.677 Z=100.137), Max=(X=634.881 Y=3447.966 Z=252.158) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 0x0000000000000000
+ |   |-    Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/TacticalHandcannon/Maps/ThirdPersonMap
+----------------------------------------------------------------------------------------------------------------
+ThirdPersonMap - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+Always loaded Actor Count: 58 
+
+----------------------------------------------------------------------------------------------------------------
+ThirdPersonMap - Runtime Spatial Hash - Streaming Grid - MainGrid
+----------------------------------------------------------------------------------------------------------------
+            Origin: X=0.000 Y=0.000 Z=0.000
+         Cell Size: 12800
+      World Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+     Loading Range: 25600.00
+Block Slow Loading: No
+ ClientOnlyVisible: No
+
+[+] Grid Levels: 1
+ |- Level  0: Cell Count    0 | Cell Size   12800 | Actor Count    0 (0.0%)
+
+[+] Content of Grid Level 0
+
